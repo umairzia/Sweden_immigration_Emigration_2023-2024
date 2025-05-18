@@ -1,0 +1,12 @@
+sweden-migration-2024/
+├── data/
+│   └── Emigration_Immigration_Sweden_2024.xlsx
+├── visuals/
+│   ├── immigration_barplot.png
+│   ├── emigration_barplot.png
+│   ├── scatter_em_vs_im.png
+│   ├── immigration_change_lines.png
+│   └── gender_breakdown_facets.png
+├── sweden_migration_analysis.ipynb
+├── requirements.txt
+└── README.md
